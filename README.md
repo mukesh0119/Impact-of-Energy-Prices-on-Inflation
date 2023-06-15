@@ -49,3 +49,8 @@ price
 ## Modelling :
 
 After properly understanding the dataset now the further step is to find the perfect model to predict the dependent factor which is the Inflation rate in our case. The dataset follows a linear trend so, I have decided to use multiple linear regression and Time series to predict the Inflation rate.
+
+## Results : 
+
+In order to find the trends of the analysed data over a while I've used Time series modelling and found a good correspondence of all the independent variables to the Inflation rate. For predicting and forecasting the Inflation rate with the help of historical data I've used ARIMA modelling. I was able to predict the Inflation rate from January 2022 to May 2023 using the model.
+
